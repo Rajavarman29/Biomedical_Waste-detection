@@ -1,0 +1,16 @@
+# Copy this file to data.yaml and set paths after exporting from Roboflow (YOLOv8 format).
+# Roboflow typically gives: train/, valid/, test/ with images and labels.
+#
+# Expected split: ~70% train / 20% val / 10% test (set in Roboflow or use scripts/prepare_dataset.py)
+
+path: ..  # dataset root relative to this file's directory, or use absolute path
+train: train/images
+val: valid/images
+test: test/images
+
+# Must match your Roboflow "names" order exactly (class id 0 = first name).
+names:
+  0: General
+  1: Infectious
+  2: Pathological
+  3: Sharps

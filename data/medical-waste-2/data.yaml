@@ -1,0 +1,15 @@
+names:
+- General
+- Infectious
+- Pathological
+- Sharps
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: medical-waste-yggno
+  url: https://universe.roboflow.com/raja-8xfja/medical-waste-yggno/dataset/2
+  version: 2
+  workspace: raja-8xfja
+test: ../test/images
+train: ../train/images
+val: ../valid/images

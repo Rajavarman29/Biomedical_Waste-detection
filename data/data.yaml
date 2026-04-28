@@ -1,0 +1,13 @@
+# Resolved relative to this file's directory (data/).
+# Dataset folder: medical-waste-2 (Roboflow YOLOv8 export)
+
+path: D:\Final Year Project\data\medical-waste-2
+train: train/images
+val: valid/images
+test: test/images
+
+names:
+  0: General
+  1: Infectious
+  2: Pathological
+  3: Sharps
