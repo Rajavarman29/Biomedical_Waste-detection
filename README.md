@@ -229,4 +229,4 @@ All processing is fully local. No images or video are uploaded to any external s
 ##  Author
 
 **Rajavarman M** — B.Tech AI & Data Science, Rajalakshmi Institute of Technology  
-📧 rajavarman419@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/rajavarman)
+📧 rajavarman419@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/raja-varman-7b6063257/)
